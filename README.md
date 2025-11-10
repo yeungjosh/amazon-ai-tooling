@@ -54,18 +54,24 @@ amazon-ai-tools/
 
 ## Quick Start
 
-### For New Amazon Engineers
+### ⚡ 10-Minute Setup (Recommended)
 
-1. **Start here**: Read [Onboarding Playbook](docs/04-onboarding-playbook.md)
-2. **Set up Amazon Q**: Follow [Amazon Q Guide](docs/02-amazon-q-guide.md)
-3. **Learn Kiro**: Explore [Kiro Spec-Driven Development](docs/03-kiro-spec-driven.md)
-4. **Configure your environment**: Use templates from `amazon-q/` directory
+**Start here**: [Engineer's Practical Quick Start](ENGINEER_QUICK_START.md)
 
-### For Engineers Coming from Claude Code
+Battle-tested workflow using Cline/Roo Code + Amazon Q for maximum productivity.
 
-1. **Compare tools**: Read [Tools Comparison](docs/01-tools-comparison.md)
-2. **Migration guide**: See [Claude to Amazon Q](integrations/claude-to-amazon-q.md)
-3. **Leverage both**: Learn how to use Cline with AWS in [Cline Setup](integrations/cline-setup.md)
+### 📚 Comprehensive Onboarding
+
+**For New Amazon Engineers**:
+1. Read [Onboarding Playbook](docs/04-onboarding-playbook.md) - Week-by-week ramp-up
+2. Set up [Amazon Q Developer](docs/02-amazon-q-guide.md) - Context, prompts, rules
+3. Learn [Kiro Spec-Driven Development](docs/03-kiro-spec-driven.md) - For complex features
+4. Configure your environment with templates from `amazon-q/` directory
+
+**For Engineers Coming from Claude Code**:
+1. Read [Tools Comparison](docs/01-tools-comparison.md) - Understand all options
+2. Compare [GitHub Spec Kit vs Kiro](docs/05-spec-kit-vs-kiro.md) - Spec-driven approaches
+3. Start with [Practical Quick Start](ENGINEER_QUICK_START.md) - Get productive immediately
 
 ## Key Features
 
