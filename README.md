@@ -20,7 +20,7 @@ amazon-ai-tools/
 │   ├── 02-amazon-q-guide.md           # Amazon Q Developer comprehensive guide
 │   ├── 03-kiro-spec-driven.md         # Kiro and spec-driven development
 │   ├── 04-onboarding-playbook.md      # SDE2/ML engineer onboarding guide
-│   └── 05-advanced-workflows.md       # Advanced productivity workflows
+│   └── 05-spec-kit-vs-kiro.md         # GitHub Spec Kit vs Kiro deep comparison
 ├── amazon-q/
 │   ├── context/                       # Amazon Q context files
 │   │   ├── project-introduction.md    # Project context template
